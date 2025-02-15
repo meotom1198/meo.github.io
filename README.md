@@ -9,7 +9,7 @@ Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
 [Blog Hỗ Trợ Typecho Việt Hoá - WapVN.Top](https://wapvn.top/)
 
 * Typecho Gốc 1.2.1
-[Typecho Gốc 1.2.1]([https://typecho.org/](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
+[Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
 
 ## Tính năng chính
 * Hỗ trợ nhiều cơ sở dữ liệu (MySQL, SQLite, PostgreSQL)
@@ -27,6 +27,6 @@ Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
   * PostgreSQL 9.1 trở lên
 
 ## Ảnh chụp màn hình
-![Typecho](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
+![Typecho Việt Hoá 1.2.1](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
 
