@@ -1,6 +1,6 @@
 ![Logo Blog WapVN.Top](https://wapvn.top/images/logo.png)
 
-# WapVN.Top
+# Blog Của **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** - WapVN.Top
 ![Favicon WapVN.Top](https://wapvn.top/images/favicon.jpg)
 - [Blog WapVN.Top](https://wapvn.top/)
   - WapVN.Top chỉ đơn giản là một blog cá nhân, chia sẻ code, tin tức, font chữ, source php,... và hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
