@@ -4,6 +4,9 @@ Mã Nguồn Typecho Việt Hoá
 Typecho Việt Hoá là một phần mềm blog dựa trên PHP và được thiết kế để trở thành công cụ blog mạnh mẽ nhất trên thế giới.
 Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
 
+## Typecho Việt Hoá 1.2.1
+[Blog Hỗ Trợ Typecho Việt Hoá - WapVN.Top](https://wapvn.top/)
+
 ## Tính năng chính
 * Hỗ trợ nhiều cơ sở dữ liệu (MySQL, SQLite, PostgreSQL)
 * Hỗ trợ cú pháp biên soạn Markdown
