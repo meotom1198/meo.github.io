@@ -1,7 +1,11 @@
+```html
+<link href="https://cdn.jsdelivr.net/gh/meotom1198/Fontawesome-Pro@57321716323d21e1dd49e9746237065c72cd2328/css/all.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/gh/meotom1198/Fontawesome-Pro@57321716323d21e1dd49e9746237065c72cd2328/css/all.min.css" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/gh/meotom1198/Fontawesome-Pro@57321716323d21e1dd49e9746237065c72cd2328/js/pro.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/meotom1198/Fontawesome-Pro@57321716323d21e1dd49e9746237065c72cd2328/js/pro.min.js"></script>
+```
 
-
-
-**<i class="fas fa-code"></i> Mã Nguồn Typecho Việt Hoá**
+**<i class="fa-solid fa-code"></i> Mã Nguồn Typecho Việt Hoá**
 ===========================
 
 Typecho Việt Hoá là một phần mềm blog dựa trên PHP và được thiết kế để trở thành công cụ blog mạnh mẽ nhất trên thế giới.
