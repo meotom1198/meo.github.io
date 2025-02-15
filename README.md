@@ -1,4 +1,6 @@
-** Mã Nguồn Typecho Việt Hoá**
+![Logo Blog WapVN.Top](https://wapvn.top/images/logo.png)
+
+**Mã Nguồn Typecho Việt Hoá**
 ===========================
 
 Typecho Việt Hoá là một phần mềm blog dựa trên PHP và được thiết kế để trở thành công cụ blog mạnh mẽ nhất trên thế giới.
