@@ -1,13 +1,18 @@
 ![Logo Blog WapVN.Top](https://wapvn.top/images/logo.png)
 
-# [WAPVN.TOP - Blog hỗ trợ mã nguồn Typecho Việt Hoá và share code hay cho các Wapmaster.](https://wapvn.top/)
+# WapVN.Top
+![Favicon WapVN.Top](https://wapvn.top/images/favicon.jpg)
+- [Blog WapVN.Top](https://wapvn.top/)
+  - WapVN.Top chỉ đơn giản là một blog cá nhân, chia sẻ code, tin tức, font chữ, source php,... và hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
+  - Tại đây, các bài viết share các bộ code, source code, code hay, tempalte html đẹp, cho các Wapmaster, hướng dẫn mod code
+  - Tại đây, mình cũng hỗ trợ những ai **đã** và **đang** sử dụng mã nguồn **Typecho Việt Hoá** mà mình đã chia sẻ.
 
-
-**Mã Nguồn Typecho Việt Hoá**
-===========================
-
-Typecho Việt Hoá là một phần mềm blog dựa trên PHP và được thiết kế để trở thành công cụ blog mạnh mẽ nhất trên thế giới.
-Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
+**Thông Tin Về Typecho Việt Hoá 1.2.1**
+- **Typecho Việt Hoá 1.2.1** là một bộ mã nguồn cực nhẹ nhàng, giúp bạn tạo một website theo phong cách blog cá nhân.
+- **Typecho Việt Hoá 1.2.1** được xây dụng dựa trên *PHP* và được thiết kế để giúp bạn tạo một website theo phong cách blog cá nhân.
+- **Typecho Việt Hoá 1.2.1** có tốc độ load cực nhanh, nếu so sánh với các mã nguồn tạo blog cá nhân được các wapmaster trên toàn thế giới lựa chọn.
+- **Typecho Việt Hoá 1.2.1** là dự án *Cá nhân* được thực hiện và duy trì bởi **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**.
+- **Typecho Việt Hoá 1.2.1** được phát hành và cập nhật miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
 
 ## Các phiên bản Typecho
 * **Typecho Việt Hoá 1.2.1** - [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
