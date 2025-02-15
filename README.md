@@ -20,7 +20,7 @@ Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
   * PostgreSQL 9.1 trở lên
 
 ## Ảnh chụp màn hình
-![Typecho]([https://wapvn.top/usr/themes/joe-vh/screenshot.png)
+![Typecho](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
 ## Typecho bản gốc
 [Typecho.ORG](https://typecho.org/)
