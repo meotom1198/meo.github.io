@@ -5,10 +5,10 @@ Typecho Việt Hoá là một phần mềm blog dựa trên PHP và được thi
 Typecho Việt Hoá được phát hành theo Giấy phép Công cộng GNU 2.0.
 
 ## Các phiên bản Typecho
-###Typecho Việt Hoá 1.2.1
+* Typecho Việt Hoá 1.2.1
 [Blog Hỗ Trợ Typecho Việt Hoá - WapVN.Top](https://wapvn.top/)
 
-### Typecho Gốc 1.2.1
+* Typecho Gốc 1.2.1
 [Typecho Gốc 1.2.1]([https://typecho.org/](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
 
 ## Tính năng chính
